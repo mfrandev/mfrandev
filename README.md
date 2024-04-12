@@ -21,7 +21,7 @@
 
   <div>
     <p>Q: What in the 🌎 am I doing?</p>
-    <p>A: I am currently working on phased-array antennas with <a href="https://www.hughes.com/">Hughes Network Systems</a> (📍 Germantown, Maryland) for global connectivity via Eutelsat's <a href="https://oneweb.net/our-network/experience-oneweb">OneWeb</a> LEO satellite network 🛰️! </p>
+    <p>A: I am currently working on phased-array antennas with <a href="https://www.hughes.com/">Hughes Network Systems</a> (📍 Germantown, Maryland) for global internet connectivity via Eutelsat's <a href="https://oneweb.net/our-network/experience-oneweb">OneWeb</a> LEO satellite network 🛰️! </p>
   </div>
 
   <br>
