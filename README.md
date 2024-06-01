@@ -20,15 +20,15 @@
 <div> <!-- start about me block -->
 
   <div>
-    <p>Q: What in the 🌎 am I doing?</p>
+    <p>Q: What in the world am I doing?</p>
     <p>A: I am currently working on phased-array antennas with <a href="https://www.hughes.com/">Hughes Network Systems</a> (📍 Germantown, Maryland) for global internet connectivity via Eutelsat's <a href="https://oneweb.net/our-network/experience-oneweb">OneWeb</a> LEO satellite network 🛰️! </p>
   </div>
 
   <br>
 
   <div>
-    <p>Q: How did I end up here 🤔?</p>
-    <p>A: One day, I walked out from the front row of an economics lecture to learn about merge sort. The rest is history 📈!</p>
+    <p>Q: How did I end up here ?</p>
+    <p>A: One day, I walked out from the front row of an economics lecture to learn about merge sort. The rest is history !</p>
   </div>
   
 </div> <!-- end about me block -->
