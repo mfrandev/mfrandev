@@ -122,4 +122,4 @@
 
 ### Finally...
 - 📫 My inbox at mfdev99@gmail.com is always open!
-- 👯 Perpetually looking for cool collaborations!
+- Perpetually looking for cool collaborations!
