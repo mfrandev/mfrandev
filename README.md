@@ -21,7 +21,10 @@
 
   <div>
     <p>Q: What in the world am I doing?</p>
-    <p>A: Currently learning as much as I can about math at the University of Connecticut. </p>
+    <p>A: <ol>
+	    <li>Personal Projects! Click <a href="https://github.com/mfrandev/interactive-graph-playground">here</a> to see ongoing work on my interactive, web-based, graph modeler and traveral visualization tool. 
+	    <li>Learning as much as I can about math at the University of Connecticut.</li>
+    </ol>
   </div>
 
   <br>
