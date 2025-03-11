@@ -21,7 +21,7 @@
 
   <div>
     <p>Q: What in the world am I doing?</p>
-    <p>A: Currently learning as much as I can, particularly about linear algebra, calculus, and statistics. </p>
+    <p>A: Currently learning as much as I can about math at the University of Connecticut. </p>
   </div>
 
   <br>
