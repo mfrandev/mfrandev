@@ -22,7 +22,8 @@
   <div>
     <p>Q: What in the world am I doing?</p>
     <p>A: <ol>
-	    <li>Personal Projects! Click <a href="https://github.com/mfrandev/interactive-graph-playground">here</a> to see ongoing work on my interactive, web-based, graph modeler and traversal visualization tool. 
+	    <li>Starting a blog! Check out my first article <a href="https://medium.com/@mfdev99/optimizing-std-unordered-map-memory-allocations-using-custom-allocators-and-memory-pools-ee95486bd3eb">Optimizing std::unordered_map Memory Allocations Using Custom Allocators And Memory Pools</a></li>
+	    <li>Projects! Click <a href="https://github.com/mfrandev/NASDAQ-Order-Book">here</a> to see ongoing optimization work for my NASDAQ-Order-Book project. 
 	    <li>Learning as much as I can about math at the University of Connecticut.</li>
     </ol>
   </div>
