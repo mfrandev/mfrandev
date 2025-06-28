@@ -2,18 +2,11 @@
 
 <br>
 
-<div align="center"> <!-- start links block -->
-	(Also find me on
-  	<a href="https://www.linkedin.com/in/michael-franceski-170950190/">
-		  <img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
-	  </a>
-	!)
-  	<!-- <a href="mfdev99@gmail.com"> (may reintroduce if I find an icon I like)
-		  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	  </a> -->
-</div> <!-- end links block -->
+<ul>
+	<li>My <a href="https://www.linkedin.com/in/michael-franceski/">LinkedIn</a> Page</li>
+	<li>My <a href="https://medium.com/@mfdev99">Medium</a> Blog</li>
+</ul>
 
-<br>
 
 ### About Me
 
